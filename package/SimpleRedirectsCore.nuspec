@@ -9,7 +9,6 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">Apache-2.0</license>
     <licenseUrl>https://licenses.nuget.org/Apache-2.0</licenseUrl>
-    <icon></icon>
     <projectUrl>https://github.com/patrickdemooij9/SimpleRedirects</projectUrl>
     <description>Umbraco Redirect Manager for the Umbraco Back-Office</description>
     <releaseNotes>Bugfixes related to duplicate source urls</releaseNotes>
