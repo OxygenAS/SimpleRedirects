@@ -14,6 +14,6 @@
     <releaseNotes>Bugfixes related to duplicate source urls</releaseNotes>
   </metadata>
   <files>
-        <file src="..\source\Simple301\bin\release\SimpleRedirects.dll" target="bin\SimpleRedirects.dll" />
+        <file src="..\source\Simple301\bin\release\SimpleRedirects.dll" target="lib\net472" />
     </files>
 </package>
