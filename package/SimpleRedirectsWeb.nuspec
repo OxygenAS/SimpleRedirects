@@ -14,6 +14,6 @@
     <releaseNotes>Bugfixes related to duplicate source urls</releaseNotes>
   </metadata>
   <files>
-        <file src="..\source\Simple301\App_Plugins\*" target="content\App_Plugins" />
+        <file src="..\source\Simple301\App_Plugins\**" target="content\App_Plugins" />
     </files>
 </package>
